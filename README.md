@@ -2,6 +2,12 @@
 
 RU-CEFR-Short is a dataset of short CEFR-graded fragments of Russian texts (15–30 words) extracted from Russian L2 textbooks and online resourses. The dataset includes fragments of informational and personal texts of a non-dialogue nature (e.g., media texts, popular science text, news, personal stories, letters). Each fragment was assigned a CEFR level based on the proficiency label of the textbook in which the original full text appeared. To ensure that a fragment is truly representative of its assigned level, the dataset includes only those fragments that contain a high proportion of linguistic features within the median range for texts of the same level.
 
+## Citation
+
+If you use this dataset in your research, publications, or other academic work, please cite:
+
+Glazkova, A., Laposhina, A., & Morozov, D. (2026). *CEFR level prediction for short Russian L2 texts: Evaluating classifiers and instruction-based LLMs*. In *Proceedings of the Fifteenth Language Resources and Evaluation Conference* (pp. 1081–1091). ELRA Language Resource Association. https://aclanthology.org/2026.lrec-1.84/
+
 ## Dataset volume
 
 | CEFR Level      | Count of fragments | Total words | Average words per fragment ± SD |
